@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "愛し君へ",
+  "base_artist": "GReeeeN",
+  "createdAt": "2025-12-02T04:59:47.648423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "つるの剛士",
+      "has_synced": false,
+      "path": "select/01_愛し君へ_つるの剛士.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "Naotaro Moriyama",
+      "has_synced": false,
+      "path": "select/02_愛し君へ_Naotaro_Moriyama.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "森山直太朗",
+      "has_synced": false,
+      "path": "select/03_愛し君へ_森山直太朗.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/04_愛し君へ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_愛し君へ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/06_愛し君へ_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/07_愛し君へ_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/08_愛し君へ_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛し君へ",
+      "artist": "Suzuki, Masayuki",
+      "has_synced": true,
+      "path": "select/09_愛し君へ_Suzuki,_Masayuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛し君へ - Itoshi Kimie",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/10_愛し君へ_-_Itoshi_Kimie_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛し君へ (ESSENTIAL ver.)",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/11_愛し君へ_(ESSENTIAL_ver.)_GReeeeN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛し君へ",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_愛し君へ_GReeeeN.txt"
+    }
+  ]
+}
